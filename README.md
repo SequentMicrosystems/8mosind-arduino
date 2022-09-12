@@ -1,7 +1,7 @@
-# 8mosfet-arduino
+# 8mosind-arduino
 Easy to use Arduino Library for 8-MOSFET Card
 
-To use the [8-Mosfet v3.1](https://sequentmicrosystems.com/collections/industrial-automation/products/eight-mosfets-8-layer-stackable-card-for-raspberry-pi) card with Arduino  UNO or NANO, TEENSY, FEATHER or ESP32 boards you need a [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/product/raspberry-pi-replacement-card/), known as S-BRIDGE, and this library.
+To use the [8-Mosfet v3.x](https://sequentmicrosystems.com/collections/industrial-automation/products/eight-mosfets-8-layer-stackable-card-for-raspberry-pi) card with Arduino  UNO or NANO, TEENSY, FEATHER or ESP32 boards you need a [Raspberry Pi Replacement Cad](https://sequentmicrosystems.com/product/raspberry-pi-replacement-card/), known as S-BRIDGE, and this library.
 
 ## Install 
 
